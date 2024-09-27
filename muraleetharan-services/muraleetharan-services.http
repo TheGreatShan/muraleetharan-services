@@ -1,0 +1,6 @@
+@muraleetharan_services_HostAddress = http://localhost:5257
+
+GET {{muraleetharan_services_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
